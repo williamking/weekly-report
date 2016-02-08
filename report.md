@@ -41,8 +41,9 @@
     ..*template.php 用于填充模板前对显示变量对最后的处理。
 
 ### 5.Web Audio（初开坑状态）
-    是一个比较新的javascript API，可以对嵌入网页中的音频文件进行处理和分析
-    [官方API文档]<https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API>
+  是一个比较新的javascript API，可以对嵌入网页中的音频文件进行处理和分析
+
+  [官方API文档]<https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API>
 
 
 ## 本周所做的事
